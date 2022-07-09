@@ -1,3 +1,3 @@
 this is my file in github 
-this is my second sentence in my github repository
+this is my second sentence in my github Repository
 hello world
